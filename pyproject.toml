@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pyquiz"
+name = "msucom_qbank"
 version = "0.1.0"
 description = ""
 authors = ["BGASM <slatte26@msu.edu>"]
