@@ -1,0 +1,12 @@
+INSERT INTO mcq (q_ID, mcq) VALUES ('1What is the relationship between funk and soul?', 'Balls');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1What is the relationship between funk and soul?', 'Dogs');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1What is the relationship between funk and soul?', 'Chicken');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1What is the relationship between funk and soul?', 'Meow');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1Who is the man?', 'You');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1Who is the man?', 'ME');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1Who is the man?', 'Everyone');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1Who is the man?', 'Who');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1What time is it?', 'Groove-thirty');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1What time is it?', '11:06');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1What time is it?', 'Jasmine Tea Time');
+INSERT INTO mcq (q_ID, mcq) VALUES ('1What time is it?', 'No idea.');

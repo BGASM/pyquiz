@@ -1,0 +1,1 @@
+INSERT INTO quiz (quiz_ID, title, course, no_questions, ranking) VALUES (1, 'Brocha Mean', 'BRO531', 3, 0);
