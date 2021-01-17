@@ -3,10 +3,11 @@ from flask import Flask
 
 def create_app(test_config=None):
     app = Flask(__name__, instance_relative_config=True)
-    logger.debug
-    app.config.from_mapping(os.path.join(app.instance_path, 'msucom_qbank.sqlite'))
+    test = os.path.join(app.instance_path, 'msucom_qbank.sqlite')
+    logger.debug(test)
+    app.config.from_mapping(
         SECRET_KEY='dev',
-        DATABASE=os.path.join(app.instance_path, 'msucom_qbank.sqlite'),
+        DATABASE=test,
     )
 
     if test_config is None:
