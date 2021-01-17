@@ -60,7 +60,7 @@ def register():
         db = get_db()
         error = None
         logger.debug(f'{username}, {password}, {name}, {email}')
-
+        logger.debug(db)
         if not username:
             error = "Username is required."
         elif not password:
